@@ -3,3 +3,4 @@ develop 1
 feature 1
 feature 2
 release 1
+hotfix 1
